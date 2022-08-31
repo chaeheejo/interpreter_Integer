@@ -1,4 +1,4 @@
-# interpreter_Integer
+# interpreter_statement
 
 ### 프로그램 명세
 > 인터프리터 프로그램  
